@@ -1,5 +1,6 @@
-#  Create React App - Phantom Web, CryptoCurrentcy, MetaMask Wallet
-#  ReactJs
+#  Phantom Web, CryptoCurrentcy, MetaMask Wallet
+# 
+#  ReactJS
 #  Conditional Rendering, Responsive-CSS Media Query,
 #  API, RapidAPI, Bing News, Object Desctructure, ReactJS Hooks, useState, useEffect, useRef, HTML display
 
