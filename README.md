@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+#  Create React App - Phantom Web, CryptoCurrentcy, MetaMask Wallet
+#  ReactJs
+#  Conditional Rendering, Responsive-CSS Media Query,
+#  API, RapidAPI, Bing News, Object Desctructure, ReactJS Hooks, useState, useEffect, useRef, HTML display
+
+
+![Screen Shot 2022-02-02 at 9 46 32 AM](https://user-images.githubusercontent.com/95377031/152210153-388cb807-7cfa-4053-806d-69aa580ffb3c.png)
+
+![Screen Shot 2022-02-02 at 9 46 51 AM](https://user-images.githubusercontent.com/95377031/152210163-480aa5a4-d1e2-4dfc-bc89-cdf9b60e0198.png)
+
+![Screen Shot 2022-02-02 at 9 49 16 AM](https://user-images.githubusercontent.com/95377031/152210171-4f9c56e5-bfa1-4bbf-9862-459a4085bb32.png)
+
+![Screen Shot 2022-02-02 at 9 49 34 AM](https://user-images.githubusercontent.com/95377031/152210173-47038529-6c02-45d6-9dac-64ba49c80e9a.png)
+
+![Screen Shot 2022-02-02 at 9 50 31 AM](https://user-images.githubusercontent.com/95377031/152210176-a6c4ee5f-76f0-46fc-8253-7d520f31d484.png)
+
+![Screen Shot 2022-02-02 at 9 50 44 AM](https://user-images.githubusercontent.com/95377031/152210177-c424bdc5-cc95-48a5-a1e8-d484a04a4e69.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
